@@ -2,7 +2,7 @@ import React from 'react';
 import List from './composition/List'
 import Card from './composition/Card'
 import STORE from './store.js'
-
+import AppCSS from './App.css'
 
 function App(props) {
 
